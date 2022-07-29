@@ -1,2 +1,2 @@
 # Competitive-Programming
-Leetcode and hackerearth solutions in python.
+Leetcode and hackerearth solutions in python or C++.
